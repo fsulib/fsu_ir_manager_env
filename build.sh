@@ -6,5 +6,5 @@ apt-get autoremove -y
 apt-get autoclean -y
 
 # Download IR manager tools
-cd
+cd /home/vagrant
 git clone https://github.com/fsulib/pmc_grabber
