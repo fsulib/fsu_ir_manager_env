@@ -7,6 +7,7 @@ apt-get autoclean -y
 
 # Download dependencies
 apt install php7.2-cli
+apt install php7.2-xml
 
 # Download IR manager tools
 cd /home/vagrant
